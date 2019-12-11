@@ -12,10 +12,6 @@ This project was completed under the course Embedded Interface Design at Univers
 - sudo apt-get upgrade
 - sudo apt-get install python3-dev python3-pip
   
-***Adafruit DHT22 Sensor Installation***
-- sudo python3 -m pip install --upgrade pip setuptools wheel
-- sudo pip3 install Adafruit_DHT
-  
 ***MySQL Installation***
 - pip install MySQL-python
 - sudo apt-get install mysql-client
